@@ -11,11 +11,13 @@
   "dependencies": {
     "async": "^2.1.2",
     "cheerio": "^0.22.0",
+    "cluster": "^0.7.7",
     "cookiefile": "^1.0.10",
     "jsdom": "^9.8.0",
     "log4js": "^0.6.38",
     "object-sizeof": "^1.1.1",
     "request": "^2.75.0",
+    "tsv": "^0.2.0",
     "xmldom": "^0.1.22",
     "xpath": "0.0.23",
     "xpath2css": "^0.6.2",
