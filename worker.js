@@ -57,6 +57,9 @@ module.exports.load = function (){
         });
     },config.browser);
 
+    queue.drain = function (){
+        process.exit();
+    }
 
     process.on('message', function(task) {
         queue.push(task, function (){

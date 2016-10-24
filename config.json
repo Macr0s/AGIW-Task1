@@ -1,4 +1,9 @@
 {
   "worker": 4,
-  "browser": 1
+  "browser": 1,
+  "xpath": "xpath.json",
+  "data": "data.json",
+  "sources": "./sources.json",
+  "input": "input.txt",
+  "error": "error.json"
 }

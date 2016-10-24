@@ -5,7 +5,8 @@
 var async = require("async");
 var tsv = require("tsv").TSV;
 var fs = require("fs");
-var sources = require("./sources.json");
+var config = require("./config.json");
+var sources = require(config.sources);
 
 var log4js = require('log4js');
 log4js.configure({
@@ -38,8 +39,8 @@ var publishResult = function (status, site, category, url, xpath, attribute_name
         d[url] = result.trim();
 
 
-        data[site][category][attribute_name].push(d)
-        writeJSON("data", "data.json");
+        data[site][category][attribute_name].push(d);
+        writeJSON("data", config.data);
     }else{
         if (typeof error[site]  == "undefined")
             error[site] = {};
@@ -48,7 +49,7 @@ var publishResult = function (status, site, category, url, xpath, attribute_name
             error[site][category] = [];
 
         error[site][category].push(url);
-        writeJSON("error", "error.json")
+        writeJSON("error", config.error);
     }
 }
 
@@ -109,7 +110,7 @@ module.exports = {
         });
     },
     load: function (workers){
-        var rows = tsv.parse(fs.readFileSync("input.txt").toString("utf-8"));
+        var rows = tsv.parse(fs.readFileSync(config.input).toString("utf-8"));
         logger.info("Item loaded:", rows.length);
 
         rows.forEach(function (row){
@@ -178,6 +179,6 @@ module.exports = {
 
         });
 
-        writeJSON("xpath", "xpath.json");
+        writeJSON("xpath", config.xpath);
     }
 }
