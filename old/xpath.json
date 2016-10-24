@@ -777,6 +777,13 @@
                 "attribute_name": "sku",
                 "page_id": true
             }
+        ],
+        "9285-See All Car": [
+            {
+                "rule": "//*[@id=\"ssb_block_11\"]/section/div[1]/p/span[2]/text()",
+                "attribute_name": "sku",
+                "page_id": true
+            }
         ]
     }
 }

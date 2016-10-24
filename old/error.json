@@ -2392,25 +2392,163 @@
             "http://www.maplin.co.uk/p/model-b-raspberry-pi-advanced-kit-with-wireless-keyboard-n34qg",
             "http://www.maplin.co.uk/p/arduino-experimenters-starter-kit-n08nu"
         ],
-        "6940-Resistors": [
-            "http://www.maplin.co.uk/p/metal-film-06w-30-ohm-resistor-m30r",
-            "http://www.maplin.co.uk/p/70k-200k-ohm-ldr-n52ay",
+         "6940-Resistors": [
+            "http://www.maplin.co.uk/p/metal-film-06w-33m-ohm-resistor-m3m3",
             "http://www.maplin.co.uk/p/omeg-220k-andohm-linear-single-gang-potentiometer-with-switch-fw46a",
-            "http://www.maplin.co.uk/p/metal-film-06w-1k-ohm-resistor-m1k"
-        ],
-        "6941-Robotics": [
-            "http://www.maplin.co.uk/p/electric-motors-wt92a",
-            "http://www.maplin.co.uk/p/3-in-1-atr-all-terrain-robot-n12dp",
-            "http://www.maplin.co.uk/p/mfa-worm-drive-set-10-pack-ha68y",
-            "http://www.maplin.co.uk/p/mfa-anti-vibration-motor-mounts-n17bq",
-            "http://www.maplin.co.uk/p/escape-robot-kit-a61jt"
-        ],
-        "6943-Solar Power": [
-            "http://www.maplin.co.uk/p/60w-solar-panel-motorhome-kit-with-premium-roof-fixings-n77ng"
+            "http://www.maplin.co.uk/p/9k-22k-ohm-ldr-n53ay",
+            "http://www.maplin.co.uk/p/metal-film-06w-1k-ohm-resistor-m1k",
+            "http://www.maplin.co.uk/p/2k5-andohm-carbon-horizontal-sub-miniature-fully-enclosed-preset-potentiometer-n39br"
         ],
         "6942-Semiconductors": [
+            "http://www.maplin.co.uk/p/ts358-n70ca",
+            "http://www.maplin.co.uk/p/tl074cn-ra69a",
             "http://www.maplin.co.uk/p/pic16f676-n36bx",
-            "http://www.maplin.co.uk/p/heatsink-for-to220-rn88v"
+            "http://www.maplin.co.uk/p/bush-for-to3-130c-heat-resistant-rn92a",
+            "http://www.maplin.co.uk/p/heatsink-for-to220-style-cases-rn87u"
+        ],
+        "6941-Robotics": [
+            "http://www.maplin.co.uk/p/random-movement-bug-kit-n36fl",
+            "http://www.maplin.co.uk/p/mfa-anti-vibration-motor-mounts-n17bq",
+            "http://www.maplin.co.uk/p/gears-cams-and-pulleys-3mm-n76ch",
+            "http://www.maplin.co.uk/p/motors-n72ch",
+            "http://www.maplin.co.uk/p/connex-space-cleaning-robot-kit-n88qn",
+            "http://www.maplin.co.uk/p/escape-robot-kit-a61jt",
+            "http://www.maplin.co.uk/p/electric-motors-wt92a",
+            "http://www.maplin.co.uk/p/solar-fan-n80ch",
+            "http://www.maplin.co.uk/p/3-in-1-atr-all-terrain-robot-n12dp"
+        ],
+        "6943-Solar Power": [
+            "http://www.maplin.co.uk/p/120w-solar-panel-motorhome-kit-with-premium-roof-fixings-n79ng",
+            "http://www.maplin.co.uk/p/solar-powered-12v-24w-battery-trickle-charger-n59fu",
+            "http://www.maplin.co.uk/p/20w-flexi-pv-solar-panel-kit-n65ng",
+            "http://www.maplin.co.uk/p/43w-solar-panel-motorhome-kit-with-premium-roof-fixings-n76ng",
+            "http://www.maplin.co.uk/p/80w-solar-power-station-n45ha",
+            "http://www.maplin.co.uk/p/60w-solar-panel-motorhome-kit-with-premium-roof-fixings-n77ng"
+        ],
+        "6944-Stage Lighting": [
+            "http://www.maplin.co.uk/p/prosound-led-pod-disco-light-n76hz",
+            "http://www.maplin.co.uk/p/green-and-red-laser-star-projector-n96hg",
+            "http://www.maplin.co.uk/p/prosound-lighting-led-elfin-flower-1-n55gw",
+            "http://www.maplin.co.uk/p/kam-partybar-mk-ii-portable-led-stage-lighting-n40ht",
+            "http://www.maplin.co.uk/p/prosound-sparker-lighting-effect-n25qf",
+            "http://www.maplin.co.uk/p/led-strobe-pod-n75hz"
+        ],
+        "6945-Weather Stations": [
+            "http://www.maplin.co.uk/p/oregon-scientific-weatherhome-wireless-weather-station-with-bluetooth-bar218hg-a93tr",
+            "http://www.maplin.co.uk/p/maplin-replacement-anemometer-for-n96gy-n09qr",
+            "http://www.maplin.co.uk/p/oregon-scientific-advanced-aliz-weather-station-indoor-and-outdoor-bar268hg-white-a90tr",
+            "http://www.maplin.co.uk/p/wireless-weather-station-n25fr"
+        ]
+    },
+    "www.markertek.com": {
+        "6947-software": [
+            "http://www.markertek.com/product/bmd-fusion8/blackmagic-design-fusion-8-visual-effects-and-motion-graphics-software",
+            "http://www.markertek.com/product/bmd-resolve-sft/blackmagic-design-davinci-resolve-12-software",
+            "http://www.markertek.com/product/706239/grass-valley-imaginate-2-0-software-for-windows",
+            "http://www.markertek.com/product/pro-sw-pf/the-prompter-people-powerflip-software-download"
+        ]
+    },
+    "www.mcmelectronics.com": {
+        "6950-Batteries": [
+            "http://www.mcmelectronics.com/product/DURACELL-PPS7US0001-/293-575",
+            "http://www.mcmelectronics.com/product/ANSMANN-5007093-/58-17400",
+            "http://www.mcmelectronics.com/product/VUPOINT-SOLUTIONS-PB-BK05BU-VP-/58-17391",
+            "http://www.mcmelectronics.com/product/VUPOINT-SOLUTIONS-PB-BK05-VP-/58-17390",
+            "http://www.mcmelectronics.com/product/DISTRIBUTED-BY-MCM-P1V2-/29-4440"
+        ],
+        "6948-Appliance Repair": [
+            "http://www.mcmelectronics.com/product/DISTRIBUTED-BY-MCM-694-/22-24290"
+        ],
+        "6951-Capacitors": [
+            "http://www.mcmelectronics.com/product/MULTICOMP-MCRH25V476M5X11-/31-7070"
+        ],
+        "6949-Audio and Video Connectors": [
+            "http://www.mcmelectronics.com/product/DISTRIBUTED-BY-MCM-027-5924-/27-5924",
+            "http://www.mcmelectronics.com/product/DISTRIBUTED-BY-MCM-33-9675-/33-9685",
+            "http://www.mcmelectronics.com/product/MULTICOMP-SVP563S-2-/27-7710"
+        ],
+        "6952-Chemicals": [
+            "http://www.mcmelectronics.com/product/TECHSPRAY-1915-16SQ-/20-4275"
+        ],
+        "6953-DVRs / Recorders": [
+            "http://www.mcmelectronics.com/product/LEADERTECH-VC-SYS-HD0800A-/82-16011",
+            "http://www.mcmelectronics.com/product/SPECO-D4WRSP1TB-/82-16347"
+        ],
+        "6954-Glue Guns": [
+            "http://www.mcmelectronics.com/product/STANLEY-GS15DT-/22-16952"
+        ],
+        "6957-Mobile Device Repair Parts": [
+            "http://www.mcmelectronics.com/product/DISTRIBUTED-BY-MCM-68-155-/68-155"
+        ],
+        "6958-Precision Tools": [
+            "http://www.mcmelectronics.com/product/PRO'SKIT-SD-9315-/22-17405",
+            "http://www.mcmelectronics.com/product/WIHA-26190-/58-17190",
+            "http://www.mcmelectronics.com/product/DURATOOL-JS-214T-/21-13825"
+        ],
+        "6959-Relays": [
+            "http://www.mcmelectronics.com/product/DISTRIBUTED-BY-MCM-HRS1H-S-DC5V-1C-/26-538"
+        ],
+        "6956-Housings & Mounts": [
+            "http://www.mcmelectronics.com/product/DEFENDER-SECURITY-82-14251-/82-14251"
+        ],
+        "6961-Storage & Cases": [
+            "http://www.mcmelectronics.com/product/GRIP-TOOLS-57000-/22-15920",
+            "http://www.mcmelectronics.com/product/DURATOOL-22-17850-/22-17850",
+            "http://www.mcmelectronics.com/product/DISTRIBUTED-BY-MCM-22-24145-/22-24145"
+        ],
+        "6962-Wipes, Swabs & Brushes": [
+            "http://www.mcmelectronics.com/product/CHEMTRONICS-SX50-/20-5170",
+            "http://www.mcmelectronics.com/product/DISTRIBUTED-BY-MCM-11110-/22-22755"
+        ],
+        "6960-Speaker Components": [
+            "http://www.mcmelectronics.com/product/MCM-AUDIO-SELECT-55-1880-/55-1880",
+            "http://www.mcmelectronics.com/product/MCM-AUDIO-SELECT-55-2985-/55-2985"
+        ]
+    },
+    "www.tesco.com": {
+        "9271-Other Construction Toys": [
+            "http://www.tesco.com/direct/lego-marvel-super-heroes-avengers-the-hulk-buster-smash-76031/628-8364.prd?skuId=628-8364",
+            "http://www.tesco.com/direct/lego-dc-super-heroes-superman-battle-of-smallville-76003/691-7192.prd?skuId=691-7192",
+            "http://www.tesco.com/direct/lego-minecraft-the-farm-21114/536-1424.prd?skuId=536-1424"
+        ],
+        "9272-Ovenware & Roasting": [
+            "http://www.tesco.com/direct/pyrex-cook-store-bowl-with-lid-1l/121-2554.prd?pageLevel=&skuId=121-2554",
+            "http://www.tesco.com/direct/pyrex-impressions-casserole-25l-white/713-9387.prd?pageLevel=&skuId=713-9387",
+            "http://www.tesco.com/direct/kitchen-craft-ceramic-pie-funnel-cream-carded/419-8680.prd?pageLevel=&skuId=419-8680",
+            "http://www.tesco.com/direct/pyrex-25l-casserole-dish-with-lid/212-3902.prd?pageLevel=&skuId=212-3902",
+            "http://www.tesco.com/direct/go-cook-33cm-vitreous-enamel-roaster-with-lid/212-6592.prd?pageLevel=&skuId=212-6592"
+        ],
+        "9274-Peppa Pig": [
+            "http://www.tesco.com/direct/child-peppa-pig-costume/202-7576.prd?pageLevel=&skuId=202-7576"
+        ],
+        "9273-Party Tableware": [
+            "http://www.tesco.com/direct/green-polka-dot-napkins-2ply/552-6839.prd?pageLevel=&skuId=552-6839"
+        ],
+        "9278-Plastic Sheds": [
+            "http://www.tesco.com/direct/5ft-x-3ft-plastic-pvc-shed-with-steel-frame-173m-x-097m-floor/534-8159.prd?pageLevel=&skuId=681-5163&showRvSkuImage=true&rvSku=681-5163"
+        ],
+        "9276-Phone Accessories": [
+            "http://www.tesco.com/direct/hudl-stylus-red/718-3925.prd?pageLevel=&skuId=718-3925"
+        ],
+        "9279-Pools & Spas": [
+            "http://www.tesco.com/direct/tesco-crab-baby-paddling-pool/406-6983.prd?pageLevel=&skuId=406-6983",
+            "http://www.tesco.com/direct/sea-world-rigid-pool/210-7402.prd?pageLevel=&skuId=210-7402",
+            "http://www.tesco.com/direct/tesco-out-there-electric-air-pump/213-5294.prd?pageLevel=&skuId=213-5294",
+            "http://www.tesco.com/direct/clearwater-basic-pool-chemical-starter-set/705-7343.prd?pageLevel=&skuId=705-7343"
+        ],
+        "9281-Rowing Machines": [
+            "http://www.tesco.com/direct/fluidrower-e216-evolution-series-fluid-rower-adjustable-resistance/654-8301.prd?pageLevel=&skuId=654-8301",
+            "http://www.tesco.com/direct/fluidrower-pacific-challenge-ar-fluid-rower-adjustable-resistance/423-8898.prd?pageLevel=&skuId=423-8898",
+            "http://www.tesco.com/direct/v-fit-artemis-ii-air-rowing-machine/315-9415.prd?pageLevel=&skuId=315-9415",
+            "http://www.tesco.com/direct/v-fit-htr2-sculling-hydraulic-rowing-machine/206-3537.prd?pageLevel=&skuId=206-3537"
+        ],
+        "9282-Sand & Water Toys": [
+            "http://www.tesco.com/direct/intex-16-glossy-panel-inflatable-ball/204-5184.prd?pageLevel=&skuId=204-5184",
+            "http://www.tesco.com/direct/tesco-shell-sand-pit-green/206-3682.prd?pageLevel=&skuId=206-3682",
+            "http://www.tesco.com/direct/elc-sand-lorry/461-9703.prd?pageLevel=&skuId=461-9703"
+        ],
+        "9283-Saws": [
+            "http://www.tesco.com/direct/black-decker-450w-variable-speed-jigsaw-ks600e/208-0039.prd?pageLevel=&skuId=208-0039"
         ]
     }
 }

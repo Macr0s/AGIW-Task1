@@ -18,6 +18,7 @@
     "object-sizeof": "^1.1.1",
     "request": "^2.75.0",
     "tsv": "^0.2.0",
+    "workerjs": "^0.1.1",
     "xmldom": "^0.1.22",
     "xpath": "0.0.23",
     "xpath2css": "^0.6.2",
