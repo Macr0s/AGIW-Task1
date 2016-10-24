@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d199ea7d-6294-4ea3-a2b9-dd1e43980bb8" name="Default" comment="Aggiunta fine processo">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/xpath.json" afterPath="" />
-    </list>
+    <list default="true" id="d199ea7d-6294-4ea3-a2b9-dd1e43980bb8" name="Default" comment="Aggiunta fine processo" />
     <ignored path="broken.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -182,7 +180,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.7.0/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.7.0" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.7.0/bin/node" />
@@ -266,7 +264,7 @@
       <workItem from="1477320349794" duration="2074000" />
       <workItem from="1477322701505" duration="679000" />
       <workItem from="1477324950262" duration="236000" />
-      <workItem from="1477326503662" duration="3023000" />
+      <workItem from="1477326503662" duration="3087000" />
     </task>
     <task id="LOCAL-00001" summary="final version">
       <created>1477338377736</created>
@@ -293,7 +291,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21529000" />
+    <option name="totallyTimeSpent" value="21593000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
