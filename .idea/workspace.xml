@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d199ea7d-6294-4ea3-a2b9-dd1e43980bb8" name="Default" comment="" />
+    <list default="true" id="d199ea7d-6294-4ea3-a2b9-dd1e43980bb8" name="Default" comment="Aggiunta fine processo">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/xpath.json" afterPath="" />
+    </list>
     <ignored path="broken.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,8 +48,8 @@
       <file leaf-file-name="worker.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/worker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="769">
-              <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+            <state relative-caret-position="154">
+              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -264,7 +266,7 @@
       <workItem from="1477320349794" duration="2074000" />
       <workItem from="1477322701505" duration="679000" />
       <workItem from="1477324950262" duration="236000" />
-      <workItem from="1477326503662" duration="2953000" />
+      <workItem from="1477326503662" duration="3023000" />
     </task>
     <task id="LOCAL-00001" summary="final version">
       <created>1477338377736</created>
@@ -291,7 +293,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21459000" />
+    <option name="totallyTimeSpent" value="21529000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -581,8 +583,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/worker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="769">
-          <caret line="60" column="23" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        <state relative-caret-position="154">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
