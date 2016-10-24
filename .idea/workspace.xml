@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d199ea7d-6294-4ea3-a2b9-dd1e43980bb8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/input copia.txt" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config.json" afterPath="$PROJECT_DIR$/config.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/input.txt" afterPath="$PROJECT_DIR$/input.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.js" afterPath="$PROJECT_DIR$/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/old/data.json" afterPath="$PROJECT_DIR$/old/data.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/worker.js" afterPath="$PROJECT_DIR$/worker.js" />
-    </list>
+    <list default="true" id="d199ea7d-6294-4ea3-a2b9-dd1e43980bb8" name="Default" comment="" />
     <ignored path="broken.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -129,9 +121,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
     <option name="width" value="1440" />
@@ -275,7 +264,7 @@
       <workItem from="1477320349794" duration="2074000" />
       <workItem from="1477322701505" duration="679000" />
       <workItem from="1477324950262" duration="236000" />
-      <workItem from="1477326503662" duration="2920000" />
+      <workItem from="1477326503662" duration="2953000" />
     </task>
     <task id="LOCAL-00001" summary="final version">
       <created>1477338377736</created>
@@ -291,17 +280,24 @@
       <option name="project" value="LOCAL" />
       <updated>1477340457125</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Aggiunta fine processo">
+      <created>1477341742325</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1477341742325</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21426000" />
+    <option name="totallyTimeSpent" value="21459000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14799154" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14799154" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31084338" sideWeight="0.5024665" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -334,7 +330,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="final version" />
     <MESSAGE value="Aggiunta gestione dei worker del browser per ottimizzare l'uso della memoria" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aggiunta gestione dei worker del browser per ottimizzare l'uso della memoria" />
+    <MESSAGE value="Aggiunta fine processo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiunta fine processo" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
