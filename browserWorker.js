@@ -13,9 +13,7 @@ var getXPath = function (url, xpath, cb){
     browser.visit(url, function () {
 
         if (!browser.success){
-            setTimeout(function (){
-                cb(browser.success);
-            }, 3000);
+            cb(browser.success);
             return;
         }
 
