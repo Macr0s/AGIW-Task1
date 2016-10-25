@@ -99,17 +99,36 @@ var writeJSON = function(obj, filename){
     })
 }
 
+var worker_alive= 0;
+
+accessQueue.drain = function (){
+    if (worker_alive == 0)
+        process.exit();
+}
 
 module.exports = {
     onWorker: function (worker){
         worker.on('message', function(msg) {
-            accessQueue.push({
-                type: "update",
-                msg: msg
-            })
+            if (msg.type == "update")
+                accessQueue.push({
+                    type: "update",
+                    msg: msg
+                })
+            else if(msg.type == "finished"){
+                logger.info("Worker "+ msg.pid + " finished")
+                worker_alive -= 1;
+                console.log(worker_alive)
+                if (worker_alive == 0){
+                    logger.info("All task done!!");
+
+                    if (accessQueue.length == 0)
+                        process.exit();
+                }
+            }
         });
     },
     load: function (workers){
+        worker_alive = workers.length
         var rows = tsv.parse(fs.readFileSync(config.input).toString("utf-8"));
         logger.info("Item loaded:", rows.length);
 

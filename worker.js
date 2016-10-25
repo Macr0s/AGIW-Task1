@@ -42,6 +42,7 @@ module.exports.load = function (){
             if (data != null) {
                 logger.info("Found xpath", data);
                 process.send({
+                    type: "update",
                     success: success,
                     task: task,
                     data: data
@@ -49,6 +50,7 @@ module.exports.load = function (){
             }else{
                 logger.fatal("Not Forund xpath")
                 process.send({
+                    type: "update",
                     success: success,
                     task: task
                 })
@@ -58,7 +60,10 @@ module.exports.load = function (){
     },config.browser);
 
     queue.drain = function (){
-        process.exit();
+        process.send({
+            type: "finished",
+            pid: process.pid
+        })
     }
 
     process.on('message', function(task) {
